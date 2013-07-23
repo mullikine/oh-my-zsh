@@ -2,7 +2,7 @@
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$reset_color%}%{$fg_bold[red]%}"
 #ZSH_THEME_GIT_PROMPT_SUFFIX="%{$fg[white]%}]%{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%} "
-ZSH_THEME_GIT_PROMPT_DIRTY=" %{$fg_bold[yellow]%}*"
+ZSH_THEME_GIT_PROMPT_DIRTY=" %{$fg_bold[yellow]%}δ"
 ZSH_THEME_GIT_PROMPT_CLEAN=""
 ZSH_THEME_PROMPT_SUFFIX="%{$fg_bold[red]%}»%{$reset_color%}"
 
