@@ -39,7 +39,7 @@ alias rdb='rails dbconsole'
 alias rg='rails generate'
 alias rgm='rails generate migration'
 alias rp='rails plugin'
-alias ru='rails runner'
+alias run='rails runner'
 alias rs='rails server'
 alias rsd='rails server --debugger'
 
